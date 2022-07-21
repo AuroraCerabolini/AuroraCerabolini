@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi! I'm Aurora
 
-<!--
-**AuroraCerabolini/AuroraCerabolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+<!-- BLOG-POST-LIST:START -->
+- 🎓 BSc in Statistics @  <a href='https://www.unimib.it/'>UNIMIB</a>
+- 📊 Data Science student @ <a href='https://www.unimib.it/'>UNIMIB</a>
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working with:
+
+<p  align="center">
+<a href="https://www.python.org/" title="Python"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="80"/></a>
+&nbsp;
+<a href="https://www.r-project.org/" title="R"><img src="https://www.r-project.org/logo/Rlogo.svg" width="80"/></a>
+&nbsp;
+<a href="https://neo4j.com" title="Neo4j"><img src="https://neo4j.com/wp-content/themes/neo4jweb/v2-templates/brand/assets/logo-section-4.svg" width="80"/></a>
+&nbsp;
+<a href="https://github.com/" title="GitHub"><img src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" width="80"/></a>
+&nbsp;
+<a href="https://sqlitestudio.pl" title="SQLiteStudio"><img src="https://sqlitestudio.pl/img/sqlitestudio.png" width="80"/></a>
+&nbsp;
+<a href="https://jupyter.org/" title="Jupyter"><img src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg" width="80"/></a>
+<a href="https://www.tableau.com/it-it" title="Tableau"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="80"/></a>
+</p>
+
+## Connect with me
+
+| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/AuroraCerabolini)| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:aurora.cerabolini@gmail.com)
+|:---:|:---:|
