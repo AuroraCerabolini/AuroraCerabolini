@@ -3,8 +3,8 @@
 ## About me
 
 <!-- BLOG-POST-LIST:START -->
-- 🎓 BSc in Statistics @  <a href='https://www.unimib.it/'>UNIMIB</a>
-- 📊 Data Science student @ <a href='https://www.unimib.it/'>UNIMIB</a>
+- 🎓 BSc in Statistics @  <a href='https://www.unimib.it/'>UniMiB</a>
+- 📊 Data Science student @ <a href='https://www.unimib.it/'>UniMiB</a>
 <!-- BLOG-POST-LIST:END -->
 
 ## Currently working with:
@@ -26,5 +26,5 @@
 
 ## Connect with me
 
-| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/AuroraCerabolini)| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:aurora.cerabolini@gmail.com)
-|:---:|:---:|
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:aurora.cerabolini@gmail.com)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/AuroraCerabolini)| [<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau logo" height="32">](https://public.tableau.com/app/profile/aurora4144)
+|:---:|:---:|:---:|
