@@ -21,7 +21,9 @@
 <a href="https://sqlitestudio.pl" title="SQLiteStudio"><img src="https://sqlitestudio.pl/img/sqlitestudio.png" width="80"/></a>
 &nbsp;
 <a href="https://jupyter.org/" title="Jupyter"><img src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg" width="80"/></a>
-<a href="https://www.tableau.com/it-it" title="Tableau"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="80"/></a>
+<a href="https://www.tableau.com" title="Tableau"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="80"/></a>
+<a href="https://www.knime.com" title="Knime"><img src="https://images.peerspot.com/image/upload/c_scale,f_auto,q_auto,w_80/tDajBW4nE54eVaf9sEUKuQjC.png" width="80"/></a>
+<a href="https://www.ibm.com/uk-en/products/spss-statistics" title="SPSS Statistics"><img src="https://data.world/api/datadotworld-apps/dataset/spss-statistics/file/raw/logo.png" width="80"/></a>
 </p>
 
 ## Connect with me
