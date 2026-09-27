@@ -4,7 +4,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - 🎓 BSc in Statistics @  <a href='https://www.unimib.it/'>UniMiB</a>
-- 📊 Data Science student @ <a href='https://www.unimib.it/'>UniMiB</a>
+- 🎓 MSc in Data Science @ <a href='https://www.unimib.it/'>UniMiB</a>
 <!-- BLOG-POST-LIST:END -->
 
 ## Currently working with:
